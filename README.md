@@ -6,7 +6,9 @@ This repository is here to demonstrate an understanding of interpolation and app
 `Python 3.9` 
 ### pip All package dependencies are included in 
 `requirements.txt` 
-Install necessary packages using `pip` with the command: 
+Install necessary packages using 
+`pip` 
+with the command: 
 ``` pip install -r requirements.txt ``` 
 ## Usage 
 To execute the program, open the cloned repo directory in your terminal and navigate to `.\src\main` 
